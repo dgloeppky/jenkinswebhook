@@ -1,4 +1,2 @@
 # jenkinswebhook
-Webhook demo
-
-DavidGL
+Webhook demo - DavidGL
